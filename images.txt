@@ -1,4 +1,10 @@
 nginx
+redis
+mysql:5.7
+postgres
+mongo
+emqx
+minio/minio
 #支持私库
 tdengine/tdengine
 tdengine/tdengine:3.3.2.0
