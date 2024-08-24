@@ -1,12 +1,12 @@
 nginx
 redis
-mysql:5.7
+mysql
 postgres
-mongo
 emqx
 minio/minio
 #支持私库
 tdengine/tdengine
+emqx
 
 xhofe/alist
 #支持指定架构
