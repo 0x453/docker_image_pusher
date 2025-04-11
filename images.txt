@@ -5,8 +5,9 @@
 # emqx
 # minio/minio
 # 支持私库
-tdengine/tdengine
-emqx
+# tdengine/tdengine
+# emqx
+eclipse-temurin:8-jre
 
 # xhofe/alist
 #支持指定架构
