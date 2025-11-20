@@ -1,3 +1,7 @@
+# java
+bitnamilegacy/java:1.8
+bitnamilegacy/java:17
+
 # nginx
 # 1panel/openresty:1.27.1.2-2-3-focal
 
