@@ -6,8 +6,12 @@
 # minio/minio
 # 支持私库
 # tdengine/tdengine
+
+tdengine/tsdb:3.3.8.4
+1panel/openresty:1.27.1.2-2-3-focal
+
 # emqx
-eclipse-temurin:8-jre
+# eclipse-temurin:8-jre
 
 # xhofe/alist
 #支持指定架构
