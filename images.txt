@@ -1,16 +1,21 @@
 # nginx
+# 1panel/openresty:1.27.1.2-2-3-focal
+
 # redis
-redis:8.4.0
+# redis:8.4.0
+
 # mysql
-mysql:5.7.44
+# mysql:5.7.44
+
 # postgres
+
 # emqx
+emqx/emqx:6.0.1
+
 # minio/minio
 # 支持私库
 # tdengine/tdengine
-
 # tdengine/tsdb:3.3.8.4
-# 1panel/openresty:1.27.1.2-2-3-focal
 
 # emqx
 # eclipse-temurin:8-jre
