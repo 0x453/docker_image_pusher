@@ -1,13 +1,13 @@
 # java
-bitnamilegacy/java:1.8
-bitnamilegacy/java:17
+# bitnamilegacy/java:1.8
+# bitnamilegacy/java:17
 
 # nginx
 # 1panel/openresty:1.27.1.2-2-3-focal
 
 # redis
 # redis:8.4.0
-
+--platform=linux/arm64 redis:8.4.0
 # mysql
 # mysql:5.7.44
 
