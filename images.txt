@@ -7,19 +7,21 @@
 
 # redis
 # redis:8.4.0
---platform=linux/arm64 redis:8.4.0
+# --platform=linux/arm64 redis:8.4.0
 # mysql
 # mysql:5.7.44
 
 # postgres
 
 # emqx
-emqx/emqx:6.0.1
+# emqx/emqx:6.0.1
+--platform=linux/arm64 emqx/emqx:6.0.1
 
 # minio/minio
 # 支持私库
 # tdengine/tdengine
 # tdengine/tsdb:3.3.8.4
+--platform=linux/arm64 tdengine/tsdb:3.3.8.4
 
 # emqx
 # eclipse-temurin:8-jre
