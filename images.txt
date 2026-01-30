@@ -15,10 +15,13 @@
 # postgres
 
 # emqx
-emqx/emqx:5.8.8
+# emqx/emqx:5.8.8
 # --platform=linux/arm64 emqx/emqx:6.0.1
 
 # minio/minio
+
+nodered/node-red
+
 # 支持私库
 # tdengine/tdengine
 # tdengine/tsdb:3.3.8.4
@@ -28,6 +31,7 @@ emqx/emqx:5.8.8
 # eclipse-temurin:8-jre
 # --platform=linux/arm64 eclipse-temurin:8-jre
 # xhofe/alist
+
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 # mattermost/focalboard
