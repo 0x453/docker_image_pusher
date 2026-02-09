@@ -20,11 +20,11 @@
 
 # minio/minio
 
-nodered/node-red
+# nodered/node-red
 
 # 支持私库
 # tdengine/tdengine
-# tdengine/tsdb:3.3.8.4
+tdengine/tsdb:3.4.0.2
 # --platform=linux/arm64 tdengine/tsdb:3.3.8.4
 
 # emqx
