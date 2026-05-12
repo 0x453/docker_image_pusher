@@ -6,7 +6,7 @@
 # 1panel/openresty:1.27.1.2-2-3-focal
 # --platform=linux/arm64 1panel/openresty:1.27.1.2-2-3-focal
 
-# redis
+redis
 # redis:8.4.0
 # --platform=linux/arm64 redis:8.4.0
 # mysql
@@ -14,7 +14,7 @@
 
 # postgres
 
-# emqx
+emqx
 # emqx/emqx:5.8.8
 # --platform=linux/arm64 emqx/emqx:6.0.1
 
@@ -24,11 +24,12 @@
 
 # 支持私库
 # tdengine/tdengine
-tdengine/tsdb:3.4.0.2
+# tdengine/tsdb:3.4.0.2
+tdengine/tsdb
 # --platform=linux/arm64 tdengine/tsdb:3.3.8.4
 
-# emqx
-# eclipse-temurin:8-jre
+eclipse-temurin:8-jre
+eclipse-temurin:17-jre
 # --platform=linux/arm64 eclipse-temurin:8-jre
 # xhofe/alist
 
